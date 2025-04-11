@@ -1,0 +1,10 @@
+langchain-openai==0.3.12
+python-dotenv==1.1.0
+langgraph==0.3.28
+langchain-neo4j==0.4.0
+langchain==0.3.23
+numpy==2.0.2
+langchain-community==0.3.21
+streamlit==1.44.1
+pyvis==0.3.2
+importlib-metadata==8.6.1

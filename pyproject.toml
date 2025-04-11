@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "GraphRAG App for dilocation microstructure query"
+version = "0.1.0"
+description = "A project for GraphRag approach for dislocation microstructure data generated using synthetic data generator."
+authors = [{ name = "Kishan Govind", email = "dr.krishangovind@gmail.com" }]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = "==3.9"
+
+# Dependencies will be dynamically loaded from requirements.txt using setuptools
+dependencies = [
+    "langchain-openai==0.3.12", 
+    "python-dotenv==1.1.0", 
+    "langgraph==0.3.28", 
+    "langchain-neo4j==0.4.0", 
+    "langchain==0.3.23", 
+    "numpy==2.0.2", 
+    "langchain-community==0.3.21"
+]
+
+[tool.setuptools]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[project.optional-dependencies]
+dev = ["black", "flake8", "pytest"]
