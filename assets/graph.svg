@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="678.1583251953125"
+   height="708.781494140625"
+   viewBox="-312.85260009765625 -344.63165283203125 678.1583251953125 708.781494140625"
+   version="1.1"
+   id="svg53"
+   sodipodi:docname="graph.svg"
+   inkscape:version="1.4.1-rc (06eac75fbf, 2025-03-29)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs53" />
+  <sodipodi:namedview
+     id="namedview53"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.73"
+     inkscape:cx="409.24855"
+     inkscape:cy="205.49133"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g44"
+     showgrid="false" />
+  <title
+     id="title1">Neo4j Graph Visualization</title>
+  <desc
+     id="desc1">Created using Neo4j (http://www.neo4j.com/)</desc>
+  <g
+     class="layer relationships"
+     id="g35">
+    <g
+       class="relationship"
+       transform="translate(-2.764409525714701 -10.526464857684765) rotate(432.0641747565325)"
+       id="g1">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 26.113569415935032 0.5 L 26.113569415935032 -0.5 L 25 -0.5 Z M 66.34794441593503 0.5 L 67.46151383187006 0.5 L 67.46151383187006 3.5 L 74.46151383187006 0 L 67.46151383187006 -3.5 L 67.46151383187006 -0.5 L 66.34794441593503 -0.5 Z"
+         id="path1" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="46.23075691593503"
+         y="3"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text1">HAS_S…</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-2.764409525714701 -10.526464857684765) rotate(379.06640840494174)"
+       id="g2">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 68.73247160804578 0.5 L 68.73247160804578 -0.5 L 25 -0.5 Z M 124.08794035804578 0.5 L 167.82041196609157 0.5 L 167.82041196609157 3.5 L 174.82041196609157 0 L 167.82041196609157 -3.5 L 167.82041196609157 -0.5 L 124.08794035804578 -0.5 Z"
+         id="path2" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="96.41020598304578"
+         y="3"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text2">HAS_PILEUP</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(186.09397300169596 54.74763710801654) rotate(433.9234083187887)"
+       id="g3">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 51.071856809437605 0.5 L 51.071856809437605 -0.5 L 25 -0.5 Z M 97.8140443094376 0.5 L 123.88590111887521 0.5 L 123.88590111887521 3.5 L 130.8859011188752 0 L 123.88590111887521 -3.5 L 123.88590111887521 -0.5 L 97.8140443094376 -0.5 Z"
+         id="path3" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="74.4429505594376"
+         y="3"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text3">CONTAINS</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(186.09397300169596 54.74763710801654) rotate(381.0392015793683)"
+       id="g4">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 53.599346695350775 0.5 L 53.599346695350775 -0.5 L 25 -0.5 Z M 100.34153419535077 0.5 L 128.94088089070155 0.5 L 128.94088089070155 3.5 L 135.94088089070155 0 L 128.94088089070155 -3.5 L 128.94088089070155 -0.5 L 100.34153419535077 -0.5 Z"
+         id="path4" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="76.97044044535077"
+         y="3"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text4">CONTAINS</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(186.09397300169596 54.74763710801654) rotate(330.0304845198763)"
+       id="g5">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 56.076755342826615 0.5 L 56.076755342826615 -0.5 L 25 -0.5 Z M 102.81894284282662 0.5 L 133.89569818565323 0.5 L 133.89569818565323 3.5 L 140.89569818565323 0 L 133.89569818565323 -3.5 L 133.89569818565323 -0.5 L 102.81894284282662 -0.5 Z"
+         id="path5" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="79.44784909282662"
+         y="3"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text5">CONTAINS</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(186.09397300169596 54.74763710801654) rotate(279.3585374319399)"
+       id="g6">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 49.594505657724895 0.5 L 49.594505657724895 -0.5 L 25 -0.5 Z M 96.3366931577249 0.5 L 120.93119881544979 0.5 L 120.93119881544979 3.5 L 127.93119881544979 0 L 120.93119881544979 -3.5 L 120.93119881544979 -0.5 L 96.3366931577249 -0.5 Z"
+         id="path6" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="72.9655994077249"
+         y="3"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text6">CONTAINS</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(229.26222436467413 204.53721031625582) rotate(319.3188365474713)"
+       id="g7">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 173.4254058674533 173.4254058674533 0 0 1 42.87501268552859,-9.892829442015625 L 42.72342970202113,-10.88127397718742 A 174.4254058674533 174.4254058674533 0 0 0 24.018736134675446,-6.953439040707552 Z M 91.37245953172823,-11.477150856062934 L 91.24513228660376,-10.485290093330065 A 173.4254058674533 173.4254058674533 0 0 1 109.93266450717634,-7.036658477631615 L 109.22741642924318,-4.120732355698555 L 116.85403347134235,-5.877067316109732 L 110.8729952777539,-10.924559973542362 L 110.16774719982074,-8.008633851609302 A 174.4254058674533 174.4254058674533 0 0 0 91.37245953172823,-11.477150856062934"
+         id="path7" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="67.03319030016257"
+         y="-9.383795476129336"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text7">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(336.30573229782806 112.52647848646453) rotate(499.3188365474713)"
+       id="g8">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 173.4254058674533 173.4254058674533 0 0 1 42.87501268552859,-9.892829442015625 L 42.72342970202113,-10.88127397718742 A 174.4254058674533 174.4254058674533 0 0 0 24.018736134675446,-6.953439040707552 Z M 91.37245953172823,-11.477150856062934 L 91.24513228660376,-10.485290093330065 A 173.4254058674533 173.4254058674533 0 0 1 109.93266450717634,-7.036658477631615 L 109.22741642924318,-4.120732355698555 L 116.85403347134235,-5.877067316109732 L 110.8729952777539,-10.924559973542362 L 110.16774719982074,-8.008633851609302 A 174.4254058674533 174.4254058674533 0 0 0 91.37245953172823,-11.477150856062934"
+         id="path8" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="67.03319030016257"
+         y="-9.383795476129336"
+         transform="rotate(180 67.03319030016257 -12.383795476129336)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text8">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(336.30573229782806 112.52647848646453) rotate(267.3549310425744)"
+       id="g9">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 172.72944095229903 172.72944095229903 0 0 1 42.69940295230689,-9.861641279770993 L 42.54723537131474,-10.84999598699659 A 173.72944095229903 173.72944095229903 0 0 0 24.018736134675446,-6.953439040707552 Z M 91.19552822605988,-11.447289962886686 L 91.06767249846324,-10.45549718567932 A 172.72944095229903 172.72944095229903 0 0 1 109.57908432426014,-7.034828269118154 L 108.87400718247757,-4.118860809742839 L 116.50052125309962,-5.8756428481880505 L 110.51918717997022,-10.922784881618572 L 109.81411003818765,-8.006817422243259 A 173.72944095229903 173.72944095229903 0 0 0 91.19552822605988,-11.447289962886686"
+         id="path9" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="66.8565081287007"
+         y="-9.360070986174378"
+         transform="rotate(180 66.8565081287007 -12.360070986174378)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text9">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(329.80797450969317 -28.12375993019392) rotate(447.3549310425744)"
+       id="g10">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 172.72944095229903 172.72944095229903 0 0 1 42.69940295230689,-9.861641279770993 L 42.54723537131474,-10.84999598699659 A 173.72944095229903 173.72944095229903 0 0 0 24.018736134675446,-6.953439040707552 Z M 91.19552822605988,-11.447289962886686 L 91.06767249846324,-10.45549718567932 A 172.72944095229903 172.72944095229903 0 0 1 109.57908432426014,-7.034828269118154 L 108.87400718247757,-4.118860809742839 L 116.50052125309962,-5.8756428481880505 L 110.51918717997022,-10.922784881618572 L 109.81411003818765,-8.006817422243259 A 173.72944095229903 173.72944095229903 0 0 0 91.19552822605988,-11.447289962886686"
+         id="path10" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="66.8565081287007"
+         y="-9.360070986174378"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text10">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(329.80797450969317 -28.12375993019392) rotate(209.78577078103103)"
+       id="g11">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 165.1105451709578 165.1105451709578 0 0 1 40.77888537394806,-9.516322854416046 L 40.620007433013555,-10.503621086909362 A 166.1105451709578 166.1105451709578 0 0 0 24.018736134675446,-6.953439040707552 Z M 89.25945938496076,-11.116864146951798 L 89.12552357405374,-10.125874137639556 A 165.1105451709578 165.1105451709578 0 0 1 105.71057636255404,-7.0142154714250395 L 105.00742440750714,-4.09778317697455 L 112.63277704211299,-5.859599625390717 L 106.64811230261655,-10.90279186402569 L 105.94496034756966,-7.986359569575201 A 166.1105451709578 166.1105451709578 0 0 0 89.25945938496076,-11.116864146951798"
+         id="path11" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="64.92346772469615"
+         y="-9.100357452446701"
+         transform="rotate(180 64.92346772469615 -12.100357452446701)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text11">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(210.9624177965917 -96.1480620507529) rotate(389.78577078103103)"
+       id="g12">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 165.1105451709578 165.1105451709578 0 0 1 40.77888537394806,-9.516322854416046 L 40.620007433013555,-10.503621086909362 A 166.1105451709578 166.1105451709578 0 0 0 24.018736134675446,-6.953439040707552 Z M 89.25945938496076,-11.116864146951798 L 89.12552357405374,-10.125874137639556 A 165.1105451709578 165.1105451709578 0 0 1 105.71057636255404,-7.0142154714250395 L 105.00742440750714,-4.09778317697455 L 112.63277704211299,-5.859599625390717 L 106.64811230261655,-10.90279186402569 L 105.94496034756966,-7.986359569575201 A 166.1105451709578 166.1105451709578 0 0 0 89.25945938496076,-11.116864146951798"
+         id="path12" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="64.92346772469615"
+         y="-9.100357452446701"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text12">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(186.09397300169596 54.74763710801654) rotate(529.4902809501947)"
+       id="g13">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 39.06205565977865 0.5 L 39.06205565977865 -0.5 L 25 -0.5 Z M 114.86674315977865 0.5 L 128.9287988195573 0.5 L 128.9287988195573 3.5 L 135.9287988195573 0 L 128.9287988195573 -3.5 L 128.9287988195573 -0.5 L 114.86674315977865 -0.5 Z"
+         id="path13" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="76.96439940977865"
+         y="3"
+         transform="rotate(180 76.96439940977865 0)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text13">HAS_SLIP_TRACE</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-2.764409525714701 -10.526464857684765) rotate(253.80082056828587)"
+       id="g14">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 39.78829267426288 0.5 L 39.78829267426288 -0.5 L 25 -0.5 Z M 95.14376142426288 0.5 L 109.93205409852575 0.5 L 109.93205409852575 3.5 L 116.93205409852575 0 L 109.93205409852575 -3.5 L 109.93205409852575 -0.5 L 95.14376142426288 -0.5 Z"
+         id="path14" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="67.46602704926288"
+         y="3"
+         transform="rotate(180 67.46602704926288 0)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text14">HAS_PILEUP</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-42.36023829120869 -146.82348729398205) rotate(322.26428924122393)"
+       id="g15">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 51.830494979929924 0.5 L 51.830494979929924 -0.5 L 25 -0.5 Z M 98.57268247992992 0.5 L 125.40317745985985 0.5 L 125.40317745985985 3.5 L 132.40317745985985 0 L 125.40317745985985 -3.5 L 125.40317745985985 -0.5 L 98.57268247992992 -0.5 Z"
+         id="path15" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="75.20158872992992"
+         y="3"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text15">CONTAINS</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-42.36023829120869 -146.82348729398205) rotate(272.8926389404618)"
+       id="g16">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 57.6406623133429 0.5 L 57.6406623133429 -0.5 L 25 -0.5 Z M 104.3828498133429 0.5 L 137.0235121266858 0.5 L 137.0235121266858 3.5 L 144.0235121266858 0 L 137.0235121266858 -3.5 L 137.0235121266858 -0.5 L 104.3828498133429 -0.5 Z"
+         id="path16" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="81.0117560633429"
+         y="3"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text16">CONTAINS</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-42.36023829120869 -146.82348729398205) rotate(225.22541706678214)"
+       id="g17">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 58.074236227381746 0.5 L 58.074236227381746 -0.5 L 25 -0.5 Z M 104.81642372738175 0.5 L 137.8906599547635 0.5 L 137.8906599547635 3.5 L 144.8906599547635 0 L 137.8906599547635 -3.5 L 137.8906599547635 -0.5 L 104.81642372738175 -0.5 Z"
+         id="path17" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="81.44532997738175"
+         y="3"
+         transform="rotate(180 81.44532997738175 0)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text17">CONTAINS</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-42.36023829120869 -146.82348729398205) rotate(535.9331650298157)"
+       id="g18">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 51.31698395577308 0.5 L 51.31698395577308 -0.5 L 25 -0.5 Z M 98.05917145577308 0.5 L 124.37615541154616 0.5 L 124.37615541154616 3.5 L 131.37615541154616 0 L 124.37615541154616 -3.5 L 124.37615541154616 -0.5 L 98.05917145577308 -0.5 Z"
+         id="path18" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="74.68807770577308"
+         y="3"
+         transform="rotate(180 74.68807770577308 0)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text18">CONTAINS</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(82.12084199846296 -243.15739059067428) rotate(212.0070320049112)"
+       id="g19">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 164.71882440680767 164.71882440680767 0 0 1 40.68024277511161,-9.498365850345664 L 40.52100365145647,-10.485605892836617 A 165.71882440680767 165.71882440680767 0 0 0 24.018736134675446,-6.953439040707552 Z M 89.15995978443064,-11.099691147184217 L 89.02569600455581,-10.108745519304591 A 164.71882440680767 164.71882440680767 0 0 1 105.51179281140266,-7.013126250631082 L 104.80874258759383,-4.096669430652026 L 112.4340337619886,-5.858751865073636 L 106.44919310981444,-10.901735343936489 L 105.74614288600561,-7.985278523957433 A 165.71882440680767 165.71882440680767 0 0 0 89.15995978443064,-11.099691147184217"
+         id="path19" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="64.82413998103596"
+         y="-9.087004668375954"
+         transform="rotate(180 64.82413998103596 -12.087004668375954)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text19">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-33.83052938096644 -315.63163791931896) rotate(392.0070320049112)"
+       id="g20">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 164.71882440680767 164.71882440680767 0 0 1 40.68024277511161,-9.498365850345664 L 40.52100365145647,-10.485605892836617 A 165.71882440680767 165.71882440680767 0 0 0 24.018736134675446,-6.953439040707552 Z M 89.15995978443064,-11.099691147184217 L 89.02569600455581,-10.108745519304591 A 164.71882440680767 164.71882440680767 0 0 1 105.51179281140266,-7.013126250631082 L 104.80874258759383,-4.096669430652026 L 112.4340337619886,-5.858751865073636 L 106.44919310981444,-10.901735343936489 L 105.74614288600561,-7.985278523957433 A 165.71882440680767 165.71882440680767 0 0 0 89.15995978443064,-11.099691147184217"
+         id="path20" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="64.82413998103596"
+         y="-9.087004668375954"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text20">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-33.83052938096644 -315.63163791931896) rotate(519.3908775426564)"
+       id="g21">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,6.953439040707552 L 24.277555179777966,5.987513214418485 A 165.14018117924186 165.14018117924186 0 0 0 40.78634868587294,9.517680566564877 L 40.62749800333492,10.504983185146017 A 166.14018117924186 166.14018117924186 0 0 1 24.018736134675446,6.953439040707552 Z M 89.26698729169803,11.11816261856444 L 89.13307622964707,10.127169264671323 A 165.14018117924186 165.14018117924186 0 0 0 105.72561598521159,7.014297757356883 L 105.02245634481093,4.097867315856242 L 112.64781362211319,5.8596636700054585 L 106.66316217241246,10.902871679357737 L 105.9600025320118,7.986441237857096 A 166.14018117924186 166.14018117924186 0 0 1 89.26698729169803,11.11816261856444"
+         id="path21" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="64.93098269829909"
+         y="15.101367671030033"
+         transform="rotate(180 64.93098269829909 12.101367671030033)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text21">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-162.0175203529641 -267.4260212203411) rotate(339.3908775426564)"
+       id="g22">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,6.953439040707552 L 24.277555179777966,5.987513214418485 A 165.14018117924186 165.14018117924186 0 0 0 40.78634868587294,9.517680566564877 L 40.62749800333492,10.504983185146017 A 166.14018117924186 166.14018117924186 0 0 1 24.018736134675446,6.953439040707552 Z M 89.26698729169803,11.11816261856444 L 89.13307622964707,10.127169264671323 A 165.14018117924186 165.14018117924186 0 0 0 105.72561598521159,7.014297757356883 L 105.02245634481093,4.097867315856242 L 112.64781362211319,5.8596636700054585 L 106.66316217241246,10.902871679357737 L 105.9600025320118,7.986441237857096 A 166.14018117924186 166.14018117924186 0 0 1 89.26698729169803,11.11816261856444"
+         id="path22" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="64.93098269829909"
+         y="15.101367671030033"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text22">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-162.0175203529641 -267.4260212203411) rotate(465.4205788472724)"
+       id="g23">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 164.468028566325 164.468028566325 0 0 1 40.617093036745246,-9.486858123562001 L 40.457621798018224,-10.474060698527666 A 165.468028566325 165.468028566325 0 0 0 24.018736134675446,-6.953439040707552 Z M 89.09625821238292,-11.08868632941008 L 88.96178362462136,-10.097769286844795 A 164.468028566325 164.468028566325 0 0 1 105.38452935121015,-7.012427332988583 L 104.68154440506677,-4.095954777743842 L 112.30679613780511,-5.858207884528158 L 106.32184261273466,-10.901057406648238 L 105.61885766659128,-7.984584851403497 A 165.468028566325 165.468028566325 0 0 0 89.09625821238292,-11.08868632941008"
+         id="path23" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="64.76054933307395"
+         y="-9.07845567601521"
+         transform="rotate(180 64.76054933307395 -12.07845567601521)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text23">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-198.34263875248917 -135.73327865605407) rotate(285.4205788472724)"
+       id="g24">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 164.468028566325 164.468028566325 0 0 1 40.617093036745246,-9.486858123562001 L 40.457621798018224,-10.474060698527666 A 165.468028566325 165.468028566325 0 0 0 24.018736134675446,-6.953439040707552 Z M 89.09625821238292,-11.08868632941008 L 88.96178362462136,-10.097769286844795 A 164.468028566325 164.468028566325 0 0 1 105.38452935121015,-7.012427332988583 L 104.68154440506677,-4.095954777743842 L 112.30679613780511,-5.858207884528158 L 106.32184261273466,-10.901057406648238 L 105.61885766659128,-7.984584851403497 A 165.468028566325 165.468028566325 0 0 0 89.09625821238292,-11.08868632941008"
+         id="path24" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="64.76054933307395"
+         y="-9.07845567601521"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text24">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-2.764409525714701 -10.526464857684765) rotate(511.8211460632483)"
+       id="g26">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 44.07494009144496 0.5 L 44.07494009144496 -0.5 L 25 -0.5 Z M 99.43040884144496 0.5 L 118.50534893288992 0.5 L 118.50534893288992 3.5 L 125.50534893288992 0 L 118.50534893288992 -3.5 L 118.50534893288992 -0.5 L 99.43040884144496 -0.5 Z"
+         id="path26" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="71.75267446644496"
+         y="3"
+         transform="rotate(180 71.75267446644496 0)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text26">HAS_PILEUP</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-135.4315327301276 60.545994492446596) rotate(181.79630940068353)"
+       id="g27">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 47.375921945175335 0.5 L 47.375921945175335 -0.5 L 25 -0.5 Z M 94.11810944517534 0.5 L 116.49403139035067 0.5 L 116.49403139035067 3.5 L 123.49403139035067 0 L 116.49403139035067 -3.5 L 116.49403139035067 -0.5 L 94.11810944517534 -0.5 Z"
+         id="path27" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="70.74701569517534"
+         y="3"
+         transform="rotate(180 70.74701569517534 0)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text27">CONTAINS</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-2.764409525714701 -10.526464857684765) rotate(469.98942997523955)"
+       id="g29">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 71.02037844538275 0.5 L 71.02037844538275 -0.5 L 25 -0.5 Z M 126.37584719538275 0.5 L 172.3962256407655 0.5 L 172.3962256407655 3.5 L 179.3962256407655 0 L 172.3962256407655 -3.5 L 172.3962256407655 -0.5 L 126.37584719538275 -0.5 Z"
+         id="path29" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="98.69811282038275"
+         y="3"
+         transform="rotate(180 98.69811282038275 0)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text29">HAS_PILEUP</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-72.63660138771871 181.5560535051012) rotate(502.847877894175)"
+       id="g30">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 50.671141621028156 0.5 L 50.671141621028156 -0.5 L 25 -0.5 Z M 97.41332912102816 0.5 L 123.08447074205631 0.5 L 123.08447074205631 3.5 L 130.0844707420563 0 L 123.08447074205631 -3.5 L 123.08447074205631 -0.5 L 97.41332912102816 -0.5 Z"
+         id="path30" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="74.04223537102816"
+         y="3"
+         transform="rotate(180 74.04223537102816 0)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text30">CONTAINS</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-72.63660138771871 181.5560535051012) rotate(447.39574213591663)"
+       id="g31">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 50.00518223459366 0.5 L 50.00518223459366 -0.5 L 25 -0.5 Z M 96.74736973459366 0.5 L 121.75255196918732 0.5 L 121.75255196918732 3.5 L 128.75255196918732 0 L 121.75255196918732 -3.5 L 121.75255196918732 -0.5 L 96.74736973459366 -0.5 Z"
+         id="path31" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="73.37627598459366"
+         y="3"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text31">CONTAINS</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-196.24433068157046 275.2167300143043) rotate(384.6516861331463)"
+       id="g32">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 178.4214441948042 178.4214441948042 0 0 1 44.1364496330677,-10.115093544575075 L 43.98893388193251,-11.104153251148432 A 179.4214441948042 179.4214441948042 0 0 0 24.018736134675446,-6.953439040707552 Z M 92.64294427625629,-11.690045049392609 L 92.51928836999751,-10.697719892577908 A 178.4214441948042 178.4214441948042 0 0 1 112.47181845343611,-7.049548904497025 L 111.76536645181226,-4.1339142275524585 L 119.39270803324408,-5.887100013532121 L 113.41375445560125,-10.93706180708978 L 112.70730245397739,-8.021427130145215 A 179.4214441948042 179.4214441948042 0 0 0 92.64294427625629,-11.690045049392609"
+         id="path32" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="68.3020064071128"
+         y="-9.554105221092726"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text32">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-65.65051205106057 335.14980921417254) rotate(204.6516861331463)"
+       id="g33">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 24.018736134675446,-6.953439040707552 L 24.277555179777966,-5.987513214418485 A 178.4214441948042 178.4214441948042 0 0 1 44.1364496330677,-10.115093544575075 L 43.98893388193251,-11.104153251148432 A 179.4214441948042 179.4214441948042 0 0 0 24.018736134675446,-6.953439040707552 Z M 92.64294427625629,-11.690045049392609 L 92.51928836999751,-10.697719892577908 A 178.4214441948042 178.4214441948042 0 0 1 112.47181845343611,-7.049548904497025 L 111.76536645181226,-4.1339142275524585 L 119.39270803324408,-5.887100013532121 L 113.41375445560125,-10.93706180708978 L 112.70730245397739,-8.021427130145215 A 179.4214441948042 179.4214441948042 0 0 0 92.64294427625629,-11.690045049392609"
+         id="path33" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="68.3020064071128"
+         y="-9.554105221092726"
+         transform="rotate(180 68.3020064071128 -12.554105221092726)"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text33">NEIGHBOR</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-72.63660138771871 181.5560535051012) rotate(315.88181185017083)"
+       id="g34">
+      <path
+         class="b-outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 28.59401463419232 0.5 L 28.59401463419232 -0.5 L 25 -0.5 Z M 104.39870213419232 0.5 L 107.99271676838464 0.5 L 107.99271676838464 3.5 L 114.99271676838464 0 L 107.99271676838464 -3.5 L 107.99271676838464 -0.5 L 104.39870213419232 -0.5 Z"
+         id="path34" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="66.49635838419232"
+         y="3"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text34">HAS_SLIP_TRACE</text>
+    </g>
+  </g>
+  <g
+     class="layer nodes"
+     id="g53">
+    <g
+       class="node"
+       aria-label="graph-node0"
+       transform="translate(-2.764409525714701,-10.526464857684765)"
+       id="g36">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#569480"
+         stroke="#447666"
+         stroke-width="2px"
+         id="circle35" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text35"> ms_121</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node1"
+       transform="translate(27.864918783011007,84.10142205248337)"
+       id="g37">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#D9C8AE"
+         stroke="#c0a378"
+         stroke-width="2px"
+         id="circle36" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text36"> st_ms_1…</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node2"
+       transform="translate(186.09397300169596,54.74763710801654)"
+       id="g38">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#DA7194"
+         stroke="#cc3c6c"
+         stroke-width="2px"
+         id="circle37" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text37"> 8</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node3"
+       transform="translate(229.26222436467413,204.53721031625582)"
+       id="g39">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#57C7E3"
+         stroke="#23b3d7"
+         stroke-width="2px"
+         id="circle38" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text38"> id_0_id_0</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node4"
+       transform="translate(336.30573229782806,112.52647848646453)"
+       id="g40">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#57C7E3"
+         stroke="#23b3d7"
+         stroke-width="2px"
+         id="circle39" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text39"> id_0_id_1</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node5"
+       transform="translate(329.80797450969317,-28.12375993019392)"
+       id="g41">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#57C7E3"
+         stroke="#23b3d7"
+         stroke-width="2px"
+         id="circle40" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text40"> id_0_id_2</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node6"
+       transform="translate(210.9624177965917,-96.1480620507529)"
+       id="g42">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#57C7E3"
+         stroke="#23b3d7"
+         stroke-width="2px"
+         id="circle41" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text41"> id_0_id_3</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node7"
+       transform="translate(-42.36023829120869,-146.82348729398205)"
+       id="g43">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#DA7194"
+         stroke="#cc3c6c"
+         stroke-width="2px"
+         id="circle42" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text42"> 6</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node8"
+       transform="translate(82.12084199846296,-243.15739059067428)"
+       id="g44">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#57C7E3"
+         stroke="#23b3d7"
+         stroke-width="2px"
+         id="circle43" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text43"> id_1_id_0</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node9"
+       transform="translate(-33.83052938096644,-315.63163791931896)"
+       id="g45">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#57C7E3"
+         stroke="#23b3d7"
+         stroke-width="2px"
+         id="circle44" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text44"> id_1_id_1</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node10"
+       transform="translate(-162.0175203529641,-267.4260212203411)"
+       id="g46">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#57C7E3"
+         stroke="#23b3d7"
+         stroke-width="2px"
+         id="circle45" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text45"> id_1_id_2</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node11"
+       transform="translate(-198.34263875248917,-135.73327865605407)"
+       id="g47">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#57C7E3"
+         stroke="#23b3d7"
+         stroke-width="2px"
+         id="circle46" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text46"> id_1_id_3</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node12"
+       transform="translate(-135.4315327301276,60.545994492446596)"
+       id="g48">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#DA7194"
+         stroke="#cc3c6c"
+         stroke-width="2px"
+         id="circle47" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text47"> 1</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node13"
+       transform="translate(-283.85259141476155,55.891244500138164)"
+       id="g49">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#57C7E3"
+         stroke="#23b3d7"
+         stroke-width="2px"
+         id="circle48" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text48"> id_2_id_0</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node14"
+       transform="translate(-72.63660138771871,181.5560535051012)"
+       id="g50">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#DA7194"
+         stroke="#cc3c6c"
+         stroke-width="2px"
+         id="circle49" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text49"> 2</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node15"
+       transform="translate(-196.24433068157046,275.2167300143043)"
+       id="g51">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#57C7E3"
+         stroke="#23b3d7"
+         stroke-width="2px"
+         id="circle50" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text50"> id_3_id_0</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node16"
+       transform="translate(-65.65051205106057,335.14980921417254)"
+       id="g52">
+      <circle
+         class="b-outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#57C7E3"
+         stroke="#23b3d7"
+         stroke-width="2px"
+         id="circle51" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#2A2C34"
+         font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+         id="text51"> id_3_id_1</text>
+    </g>
+  </g>
+  <text
+     text-anchor="middle"
+     pointer-events="none"
+     font-size="8px"
+     fill="#000000"
+     x="260.89792"
+     y="-313.75543"
+     font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+     id="text2-6"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#569480;fill-opacity:1"
+     transform="rotate(-0.003482)"><tspan
+       sodipodi:role="line"
+       id="tspan53"
+       x="260.89792"
+       y="-313.75543">Microstructure</tspan></text>
+  <text
+     text-anchor="middle"
+     pointer-events="none"
+     font-size="8px"
+     fill="#000000"
+     x="218.29707"
+     y="-293.05478"
+     font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+     id="text2-6-4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#da7194;fill-opacity:1"
+     transform="rotate(-0.003482)"><tspan
+       sodipodi:role="line"
+       id="tspan54"
+       x="218.29707"
+       y="-293.05478">Pileup</tspan></text>
+  <text
+     text-anchor="middle"
+     pointer-events="none"
+     font-size="8px"
+     fill="#000000"
+     x="242.98865"
+     y="-269.74515"
+     font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+     id="text2-6-4-8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#57c7e3;fill-opacity:1"
+     transform="rotate(-0.003482)"><tspan
+       sodipodi:role="line"
+       id="tspan55"
+       x="242.98865"
+       y="-269.74515">Dislocation</tspan></text>
+  <text
+     text-anchor="middle"
+     pointer-events="none"
+     font-size="8px"
+     fill="#000000"
+     x="263.48627"
+     y="-244.15273"
+     font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+     id="text2-6-4-8-5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#d9c8ae;fill-opacity:1"
+     transform="rotate(-0.003482)"><tspan
+       sodipodi:role="line"
+       id="tspan56"
+       x="263.48627"
+       y="-244.15273">Slip Trace Line</tspan></text>
+</svg>
