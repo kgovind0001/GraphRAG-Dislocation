@@ -12,13 +12,13 @@ The ontology consists of four primary node types and five relationship types, or
 
 ---
 
-#### 🔹 Nodes
+#### 🧬 Node Types
 
-- **Microstructure**
+- 🧱 **Microstructure**
   - Represents the top-level dislocation microstructure under investigation.
   - It is the entry point of the graph and aggregates the entire microstructural configuration.
 
-- **Pileup**
+- 💥 **Pileup**
   - A localized group of dislocations accumulating at a barrier.
   - Characterized by:
     - `start location of first dislocation`
@@ -26,7 +26,7 @@ The ontology consists of four primary node types and five relationship types, or
     - `slip direction`
     - `number of dislocations`
 
-- **Dislocation**
+- 🧵 **Dislocation**
   - Individual line defect within a pileup.
   - Characterized by:
     - `spline-id`
@@ -60,7 +60,7 @@ The ontology consists of four primary node types and five relationship types, or
  1. Python 3.9
  2. Docker & Docker Compose 
  3. [pyenv](https://github.com/pyenv/pyenv) & [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
- 4. OpenAI API Ky
+ 4. OpenAI API Key
 
 ---
 
