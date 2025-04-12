@@ -1,6 +1,6 @@
 # GraphRAG: # Microstructure Knowledge Graph Ontology using Neo4j
 
-This project uses a knowledge graph to represent and explore the hierarchical structure and spatial relationships within microstructural data – with a special focus on dislocation phenomena – as they appear in [synthetic datasets](https://iopscience.iop.org/article/10.1088/2632-2153/ad1a4e/pdf) especially designed for machine learning studies. The ontology focuses on modeling **dislocation pileups**, their associated dislocations, and their geometric characteristics, making it suitable for advanced reasoning tasks and graph-based querying.
+This project uses a knowledge graph to represent and explore the hierarchical structure and spatial relationships within microstructural data – with a special focus on dislocation phenomena – as they appear in [synthetic datasets](https://iopscience.iop.org/article/10.1088/2632-2153/ad1a4e/pdf) especially designed for machine learning studies. Within such a graph, the microstructure is treated as a geometric entity with features such as pileups and dislocations. The ontology focuses on modeling **dislocation pileups**, their associated dislocations, and their geometric characteristics, making it suitable for advanced reasoning tasks and graph-based querying.
 
 ### 🧩 Ontology Structure
 
@@ -175,7 +175,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ---
 
-## 🙌 Acknowledgents
+## 🙌 Acknowledgements
 
 Developed by [Kishan Govind](https://github.com/kgovind0001).
 
