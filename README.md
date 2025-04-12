@@ -161,6 +161,7 @@ After running the application, you can test its functionality by:
 1. Adding more sample data to the `sample_data/` directory.
 2. Ensuring the data is ingested and processed correctly.
 3. Submitting queries and verifying the responses are accurate and contextually relevent.
+4. Ontology of the database can be obtained by pasting ```http://localhost:7474/rdf/neo4j/onto``` in the browser to get rdf file. 
 
 ---
 
