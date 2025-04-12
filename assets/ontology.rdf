@@ -1,0 +1,100 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<neo4j://graph.schema#ms_id> a owl:DatatypeProperty;
+  rdfs:domain <neo4j://graph.schema#Microstructure>;
+  rdfs:range <http://www.w3.org/2001/XMLSchema#string>;
+  rdfs:label "ms_id" .
+
+<neo4j://graph.schema#n_dislocations> a owl:DatatypeProperty;
+  rdfs:label "n_dislocations";
+  rdfs:domain <neo4j://graph.schema#Pileup>;
+  rdfs:range <http://www.w3.org/2001/XMLSchema#integer> .
+
+<neo4j://graph.schema#NEIGHBOR> a owl:ObjectProperty;
+  rdfs:domain <neo4j://graph.schema#Dislocation>;
+  rdfs:range <neo4j://graph.schema#Dislocation>;
+  rdfs:label "NEIGHBOR" .
+
+<neo4j://graph.schema#offset> a owl:DatatypeProperty;
+  rdfs:domain <neo4j://graph.schema#Pileup>, <neo4j://graph.schema#Dislocation>;
+  rdfs:range <http://www.w3.org/2001/XMLSchema#decimal>;
+  rdfs:label "offset" .
+
+<neo4j://graph.schema#direction> a owl:DatatypeProperty;
+  rdfs:range <http://www.w3.org/2001/XMLSchema#decimal>;
+  rdfs:label "direction";
+  rdfs:domain <neo4j://graph.schema#Pileup> .
+
+<neo4j://graph.schema#start_pos_x> a owl:DatatypeProperty;
+  rdfs:label "start_pos_x";
+  rdfs:domain <neo4j://graph.schema#Dislocation>;
+  rdfs:range <http://www.w3.org/2001/XMLSchema#decimal> .
+
+<neo4j://graph.schema#start_pos_y> a owl:DatatypeProperty;
+  rdfs:label "start_pos_y";
+  rdfs:range <http://www.w3.org/2001/XMLSchema#decimal>;
+  rdfs:domain <neo4j://graph.schema#Dislocation> .
+
+<neo4j://graph.schema#pileup_id> a owl:DatatypeProperty;
+  rdfs:domain <neo4j://graph.schema#Pileup>;
+  rdfs:label "pileup_id";
+  rdfs:range <http://www.w3.org/2001/XMLSchema#string> .
+
+<neo4j://graph.schema#HAS_SLIP_TRACE> a owl:ObjectProperty;
+  rdfs:domain <neo4j://graph.schema#Microstructure>, <neo4j://graph.schema#Pileup>;
+  rdfs:range <neo4j://graph.schema#SlipTrace>;
+  rdfs:label "HAS_SLIP_TRACE" .
+
+<neo4j://graph.schema#slip_width> a owl:DatatypeProperty;
+  rdfs:domain <neo4j://graph.schema#Pileup>;
+  rdfs:range <http://www.w3.org/2001/XMLSchema#decimal>;
+  rdfs:label "slip_width" .
+
+<neo4j://graph.schema#id> a owl:DatatypeProperty;
+  rdfs:domain <neo4j://graph.schema#Dislocation>, <neo4j://graph.schema#Pileup>, <neo4j://graph.schema#Microstructure>,
+    <neo4j://graph.schema#SlipTrace>;
+  rdfs:range <http://www.w3.org/2001/XMLSchema#string>;
+  rdfs:label "id" .
+
+<neo4j://graph.schema#CONTAINS> a owl:ObjectProperty;
+  rdfs:label "CONTAINS";
+  rdfs:range <neo4j://graph.schema#Dislocation>;
+  rdfs:domain <neo4j://graph.schema#Pileup> .
+
+<neo4j://graph.schema#spline_id> a owl:DatatypeProperty;
+  rdfs:domain <neo4j://graph.schema#Dislocation>;
+  rdfs:range <http://www.w3.org/2001/XMLSchema#string>;
+  rdfs:label "spline_id" .
+
+<neo4j://graph.schema#SlipTrace> a owl:Class;
+  rdfs:label "SlipTrace" .
+
+<neo4j://graph.schema#Microstructure> a owl:Class;
+  rdfs:label "Microstructure" .
+
+<neo4j://graph.schema#start_pos> a owl:DatatypeProperty;
+  rdfs:range <http://www.w3.org/2001/XMLSchema#decimal>;
+  rdfs:label "start_pos";
+  rdfs:domain <neo4j://graph.schema#Pileup> .
+
+<neo4j://graph.schema#Pileup> a owl:Class;
+  rdfs:label "Pileup" .
+
+<neo4j://graph.schema#Dislocation> a owl:Class;
+  rdfs:label "Dislocation" .
+
+<neo4j://graph.schema#slip_id> a owl:DatatypeProperty;
+  rdfs:label "slip_id";
+  rdfs:domain <neo4j://graph.schema#SlipTrace>;
+  rdfs:range <http://www.w3.org/2001/XMLSchema#string> .
+
+<neo4j://graph.schema#dis_id> a owl:DatatypeProperty;
+  rdfs:label "dis_id";
+  rdfs:domain <neo4j://graph.schema#Dislocation>;
+  rdfs:range <http://www.w3.org/2001/XMLSchema#string> .
+
+<neo4j://graph.schema#HAS_PILEUP> a owl:ObjectProperty;
+  rdfs:label "HAS_PILEUP";
+  rdfs:domain <neo4j://graph.schema#Microstructure>;
+  rdfs:range <neo4j://graph.schema#Pileup> .
