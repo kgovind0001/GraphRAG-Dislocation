@@ -1,17 +1,20 @@
 version: "3.8"
 services:
   neo4j:
-    image: neo4j:latest
+    image: neo4j:5.11-community  # Use a known compatible version
     container_name: 'local-dev-neo4j'
     volumes:
       - ./data:/data
     environment:
       NEO4J_AUTH: neo4j/password
-      NEO4J_PLUGINS: '["apoc"]'
+      NEO4J_PLUGINS: '["apoc","n10s"]'
       NEO4J_dbms_security_procedures_unrestricted: apoc.*
       NEO4J_apoc_export_file_enabled: "true"
       NEO4J_apoc_import_file_enabled: "true"
       NEO4J_apoc_import_file_use__neo4j__config: "true"
+      NEO4J_dbms_memory_heap_initial__size: 512m
+      NEO4J_dbms_memory_heap_max__size: 1G
+      NEO4J_dbms_unmanaged__extension__classes: "n10s.endpoint=/rdf"
     ports:
       - "7474:7474"
       - "7687:7687"
