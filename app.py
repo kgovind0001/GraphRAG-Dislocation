@@ -45,6 +45,17 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+# Place the network visualization in the sidebar.
+with st.sidebar:
+    st.markdown("<h1 style='text-align: center; font-size: 30px;'>Microstructure Graph</h1>", unsafe_allow_html=True)
+    try:
+        with open('assets/network.html', 'r', encoding='utf-8') as html_file:
+            network_html = html_file.read()
+        st.components.v1.html(network_html, height=512, scrolling=False)
+    except Exception as e:
+        st.error("Network visualization not available. Please verify that 'assets/network.html' exists.")
+    st.markdown("</div>", unsafe_allow_html=True)
+
 # Title and intro
 st.markdown("<h1 class='header'>🔗 Dislocation Microstructure GraphRAG Assistant</h1>", unsafe_allow_html=True)
 st.markdown("""
@@ -53,7 +64,7 @@ st.markdown("""
     <ul>
         <li>Find highest Number of Dislocations in a Pileup.</li>
         <li>How many dislocation microstructure we have in the dataset. </li>
-        <li>find the microstructure with the largest number of pileup.</li>
+        <li>Find the microstructure with the largest number of pileup.</li>
     </ul>
     🤖 This assistant combines <strong>graph knowledge</strong> and <strong>AI reasoning</strong> to get smart results!
 </div>
