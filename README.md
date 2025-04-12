@@ -7,7 +7,7 @@ This project uses a knowledge graph to represent and explore the hierarchical st
 The ontology consists of four primary node types and five relationship types, organized in a hierarchical and spatial layout as follows:
 
 <p align="center">
-  <img src="assets/graph.svg" alt="graph" width="600"/>
+  <img src="assets/schema.svg" alt="schema" width="600"/>
 </p>
 
 ---
@@ -54,6 +54,12 @@ The ontology consists of four primary node types and five relationship types, or
   - One pileup may be associated with slip trace lines.
 
 ---
+
+<p align="center">
+  <img src="assets/graph.svg" alt="graph" width="600"/>
+</p>
+
+
 
 ## 🧰 Prerequisites
 
