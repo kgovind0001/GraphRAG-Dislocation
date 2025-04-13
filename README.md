@@ -111,7 +111,7 @@ pyenv activate graphrag-env
 Install the required Python package:
 
 ```bash
-pip install -r requirements.txt
+pip install -e . 
 ```
 
 
