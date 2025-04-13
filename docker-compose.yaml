@@ -1,7 +1,8 @@
 version: "3.8"
 services:
   neo4j:
-    image: neo4j:5.11-community  # Use a known compatible version
+    # image: neo4j:5.11-community  # Use this  version to get ontology using n10s plugin 
+    image: neo4j:2025.03.0
     container_name: 'local-dev-neo4j'
     volumes:
       - ./data:/data
