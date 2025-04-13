@@ -104,6 +104,6 @@ if prompt := st.chat_input("Ask your microstructure query question..."):
         st.session_state.messages.append({"role": "assistant", "content": assistant_answer})
     except Exception as ex:
         logger.error(f"Got error processing request {ex}") 
-        request_not_processed = "Could not process the request, please try later...."
+        request_not_processed = "Oops! Something went wrong. Please give it another shot in a moment."
         st.markdown(f"<div class='chat-message assistant'>{request_not_processed}</div>", unsafe_allow_html=True)
         st.session_state.messages.append({"role": "assistant", "content": request_not_processed})
