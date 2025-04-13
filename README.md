@@ -1,4 +1,4 @@
-# GraphRAG: # Microstructure Knowledge Graph Ontology using Neo4j
+# GraphRAG: Microstructure Knowledge Graph Ontology using Neo4j
 
 <h3 align="center">🚀 Application Demo</h3>
 <p align="center">
