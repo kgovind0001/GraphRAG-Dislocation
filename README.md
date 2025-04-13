@@ -10,7 +10,7 @@ This project uses a knowledge graph to represent and explore the hierarchical st
 
 ### 🧩 Ontology Structure
 
-The ontology consists of four primary node types and five relationship types, organized in a hierarchical and spatial layout as follows:
+The [dislocation microstructure ontology](assets/ontology.rdf) consists of four primary node types and five relationship types, organized in a hierarchical and spatial layout as follows:
 
 <p align="center">
   <img src="assets/schema.svg" alt="schema" width="600"/>
