@@ -64,10 +64,10 @@ st.markdown("""
     <ul>
         <li>Find highest Number of Dislocations in a Pileup.</li>
         <li>How many dislocation microstructure we have in the dataset. </li>
-        <li>Find the microstructure with the largest number of pileup.</li>
+        <li>Find the microstructure with the largest number of pileup. Provide all the details</li>
         <li>Find average number of pileups in a microstructure. </li>
         <li>Find distribution of number of pileups in a microstructure .</li>
-        <li>which microstructure has the highest number of dislocations and how many dislocations does it contain. </li>
+        <li>Which microstructure has the highest number of dislocations and how many dislocations does it contain. </li>
     </ul>
     🤖 This assistant combines <strong>graph knowledge</strong> and <strong>AI reasoning</strong> to get smart results!
 </div>
